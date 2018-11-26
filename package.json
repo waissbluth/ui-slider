@@ -59,7 +59,6 @@
     "ember-load-initializers": "^0.6.3",
     "ember-modal-dialog": "0.9.0",
     "ember-resolver": "^2.1.1",
-    "ember-source": "^2.11.0",
     "ember-tether": "0.4.1",
     "loader.js": "^4.0.1",
     "ui-bootstrap": "0.1.10",
@@ -73,8 +72,8 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.2.4",
+    "ember-cli-babel": "^6.6.0",
     "ember-cli-htmlbars": "^1.1.1",
-    "ember-runtime-enumerable-includes-polyfill": "^1.0.4"
+    "ember-runtime-enumerable-includes-polyfill": "^2.1.0"
   }
 }
